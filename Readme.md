@@ -1,7 +1,5 @@
  ytClone App Backend
 
-This is learning project for backend development.
-
 ## Table of Contents
 
 ---
@@ -35,9 +33,6 @@ Before you begin, ensure you have met the following requirements:
 - You have MongoDB installed or have a MongoDB Atlas account.
 
 --- 
-## How to contribute in this open source Project
-
-First, please understand that this is not your regular project to merge your PR. This repo requires you to finish all assignments that are in controller folder. We don't accept half work, please finish all controllers and then reach us out on [Discord](https://hitesh.ai/discord) or [Twitter](https://twitter.com/@hiteshdotcom) and after checking your repo, I will add link to your repo in this readme.
 ## Installation
 
 
@@ -113,12 +108,6 @@ To logout, send a POST request to `/api/v1/users/logout` .
 
 There a lot of endpoint you can see in routes.
 
-
-
-
-## Contributing
-This project is open source and it is based on learning, this project is from "Chai-aur-code" yt channel.
-
 ## Tests
 This project uses Postman for testing its API endpoints. 
 here is a postman collection import in your postman collection and set the environment variables.
@@ -134,7 +123,3 @@ The tests cover the following areas:
 - Dashboard functionality
 
 Please note that you'll need to update the environment variables in Postman to match your local setup (e.g., `base_url`, `user_token`).
-
-## License
-
-This project is licensed under the Chai-aur-code license.
