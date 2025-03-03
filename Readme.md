@@ -8,10 +8,7 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Tests](#tests)
-- [License](#license)
-- [Questions](#questions)
 
 This project is a complex backend project that is built with nodejs, expressjs, mongodb, mongoose, jwt, bcrypt, and many more. This project is a complete backend project that has all the features that a backend project should have.
 We are building a complete video hosting website similar to youtube with all the features like login, signup, upload video, like, dislike, comment, reply, subscribe, unsubscribe, and many more.
@@ -19,20 +16,7 @@ We are building a complete video hosting website similar to youtube with all the
 This project is a robust backend built with NodeJs, ExpressJS and MongoDB, designed to handle a variety of operations for a social media-like platform. It includes user controllers that manage registration, login, logout, and other user-related functionalities. The video controller allows users to perform CRUD operations on videos. Similarly, users can create, read, update, and delete comments and community post. The like controller enables users to like videos, comments, and community, enhancing user interaction and engagement. Additionally, a dashboard controller provides an overview of user activities and interactions. This backend serves as a solid foundation for a future frontend, paving the way for a full-stack social media application.
 
 Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tokens and many more. We have spent a lot of time in building this project and we are sure that you will learn a lot from this project.
-## Prerequisites
 
----
-Top Contributer to complete all TODOs
-Before you begin, ensure you have met the following requirements:
-
-1. Spiderman (just sample)  [Link to Repo](https://www.youtube.com/@chaiaurcode)
-- You have installed the latest version of Node.js and npm.
-- You have a Windows/Linux/Mac machine.
-- You have read guide to Express.js.
-- You have a basic understanding of JavaScript and MongoDB.
-- You have MongoDB installed or have a MongoDB Atlas account.
-
---- 
 ## Installation
 
 
