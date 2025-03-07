@@ -31,7 +31,7 @@ Follow these steps to get the project set up on your local machine:
 2. **Navigate to the project directory**: Change your current directory to the project's directory:
 
     ```bash
-    cd Vidtube
+    cd ytClone
     ```
 
 3. **Install the dependencies**: Now, you can install the necessary dependencies for the project:
